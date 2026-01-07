@@ -16,3 +16,7 @@ wheels/
 .env
 .env.*
 !.env.example
+
+# SQLite databases
+*.db
+*.sqlite3
